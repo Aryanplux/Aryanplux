@@ -1,6 +1,9 @@
+<p align="center">
+
 # Aryan Dhiman
 
-![Waving GIF](https://imgs.search.brave.com/6vnlt73NoBsVzbZAsUL6zriLJ4WXC0C7EeQ9ell1hes/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvcHJvZ3Jh/bW1pbmctYW5ncnkt/cHVuY2hpbmcta2V5/Ym9hcmQtZnc0NXlo/MmUzOWcyNHlsYi5n/aWY.gif)  
+<img src="https://imgs.search.brave.com/6vnlt73NoBsVzbZAsUL6zriLJ4WXC0C7EeQ9ell1hes/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvcHJvZ3Jh/bW1pbmctYW5ncnkt/cHVuY2hpbmcta2V5/Ym9hcmQtZnc0NXlo/MmUzOWcyNHlsYi5n/aWY.gif" alt="Waving GIF" width="180" />
+
 **I can learn, build, deploy**
 
 ---
@@ -21,7 +24,6 @@
 | Inter College Hackathon Runner-up| Shoolini University | October 2025 | [Credential](https://media.licdn.com/dms/image/v2/D5622AQE_x4wYpmWEyg/feedshare-shrink_800/B56Zperh_eIcAg-/0/1762525061780?e=1765411200&v=beta&t=J9bD3nevFca5zeYRa9tkTaikfDn6lC-7dyvmqOKQsSc) |
 | Scientific Computing with python | FreeCodeCamp | July 2024 | [Credential](https://www.freecodecamp.org/certification/AryanDhiman/scientific-computing-with-python-v7) |
 
-
 ---
 
 ## 💼 Major Projects
@@ -31,33 +33,32 @@
 Runner-Up, Inter College Hackathon  
 Team: Hackuna Matata (Aryan Dhiman, Samriddhi Chauhan, Lavanya Garg, Nitika Thakur, Vikas Kaushal)  
 
-UniKart is a secure, university-exclusive digital marketplace empowering students to monetize skills, exchange products, and build verifiable portfolios. Featuring university email verification onboarding, AI-based matching, escrow payments, and gamification badges.
+UniKart is a secure, university-exclusive digital marketplace empowering students to monetize skills and exchange products with AI-based matching and secure payments. Features university email verification onboarding, gamification badges, and auto-portfolio generation.
 
-**Tech Stack:** React frontend, Django REST backend, MySQL, AI Matching (Python/ML), UPI escrow integration prototype
+**Tech Stack:** React frontend, Django REST backend, MySQL, Python AI Matching, UPI payment prototype
 
 **Links:**  
-- [YouTube Tutorial](https://youtu.be/UOp9HBIOCY4)  
-- [GitHub Repository](https://github.com/Aryanplux/UniKart)  
-- [Project Documentation](https://github.com/Aryanplux/UniKart/blob/main/UNIKART%20Documentation.pdf)
+[YouTube Tutorial](https://youtu.be/UOp9HBIOCY4) | [GitHub](https://github.com/Aryanplux/UniKart) | [Documentation PDF](https://github.com/Aryanplux/UniKart/blob/main/UNIKART%20Documentation.pdf)
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 
 ### Backend  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 
 ### Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />  
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />  
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 
 ### Databases & Others  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-<!-- Add remaining tech stack icons here as necessary -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  
+
+_(Include your other tech badges similarly)_
 
 ---
 
@@ -75,5 +76,4 @@ UniKart is a secure, university-exclusive digital marketplace empowering student
 
 ---
 
-*This README was customized and styled as per Aryan Dhiman's preferences for a neat, professional, and visually appealing GitHub profile README.*
-
+</p>
