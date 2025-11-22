@@ -1,25 +1,79 @@
-# 💫 About Me:
-👨‍💻 Currently diving into the world of BTech in CSE (Data Science Specialization) 🌟! Learning, coding, and exploring one dataset at a time 📊✨.
+# Aryan Dhiman
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryan_9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aryan_dhiman09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-dhiman-a8974628b/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aryanplux&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aryanplux&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanplux&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryanplux&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Waving GIF](https://imgs.search.brave.com/6vnlt73NoBsVzbZAsUL6zriLJ4WXC0C7EeQ9ell1hes/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvcHJvZ3Jh/bW1pbmctYW5ncnkt/cHVuY2hpbmcta2V5/Ym9hcmQtZnc0NXlo/MmUzOWcyNHlsYi5n/aWY.gif)  
+**I can learn, build, deploy**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryanplux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AryanDhiman) 
+## 🌐 Socials
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryan_9)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aryan_dhiman09/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-dhiman-a8974628b/)
+
+---
+
+## 📜 Certifications & Education
+
+| Certification | Issuer | Date | Link |
+| ------------- | -------| -----| -----|
+| OCI AI Foundations Associate| Oracle | September 2025 | [Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=876EA352AF8B5086DA1D87EC655A0B513346E676DFE624E8182C1FCE22D9418E) |
+| Inter College Hackathon Runner-up| Shoolini University | October 2025 | [Credential](https://media.licdn.com/dms/image/v2/D5622AQE_x4wYpmWEyg/feedshare-shrink_800/B56Zperh_eIcAg-/0/1762525061780?e=1765411200&v=beta&t=J9bD3nevFca5zeYRa9tkTaikfDn6lC-7dyvmqOKQsSc) |
+| Scientific Computing with python | FreeCodeCamp | July 2024 | [Credential](https://www.freecodecamp.org/certification/AryanDhiman/scientific-computing-with-python-v7) |
+
+
+---
+
+## 💼 Major Projects
+
+### UniKart
+
+Runner-Up, Inter College Hackathon  
+Team: Hackuna Matata (Aryan Dhiman, Samriddhi Chauhan, Lavanya Garg, Nitika Thakur, Vikas Kaushal)  
+
+UniKart is a secure, university-exclusive digital marketplace empowering students to monetize skills, exchange products, and build verifiable portfolios. Featuring university email verification onboarding, AI-based matching, escrow payments, and gamification badges.
+
+**Tech Stack:** React frontend, Django REST backend, MySQL, AI Matching (Python/ML), UPI escrow integration prototype
+
+**Links:**  
+- [YouTube Tutorial](https://youtu.be/UOp9HBIOCY4)  
+- [GitHub Repository](https://github.com/Aryanplux/UniKart)  
+- [Project Documentation](https://github.com/Aryanplux/UniKart/blob/main/UNIKART%20Documentation.pdf)
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+
+### Backend  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+
+### Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+
+### Databases & Others  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+<!-- Add remaining tech stack icons here as necessary -->
+
+---
+
+## 📊 GitHub & Coding Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryanplux&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryanplux&theme=radical)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/4ziOn2CW0w?theme=dark)
+
+---
+
+## 🎵 Spotify Playlist
+
+[![Lilo x Stitch Playlist](https://spotify-github-profile.vercel.app/api/view?uid=5Ymts0OPxrphCHcKZekPqW&cover_image=true&theme=night)](https://open.spotify.com/playlist/5Ymts0OPxrphCHcKZekPqW?si=8d73c1bab9bd428b)
+
+---
+
+*This README was customized and styled as per Aryan Dhiman's preferences for a neat, professional, and visually appealing GitHub profile README.*
+
