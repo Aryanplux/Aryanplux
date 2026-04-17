@@ -9,7 +9,7 @@
 
 <!-- Profile GIF with Glow Effect -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE5Zm1nNnV5cXRwNW82ZWlicTdocDlmMWdoNW9xYm1wa2tqdW1rbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Waving GIF" width="220" style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0 0 25px #00F7FF;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE5Zm1nNnV5cXRwNW82ZWlicTdocDlmMWdoNW9xYm1wa2tqdW1rbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Waving GIF" width=220 style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0 0 25px #00F7FF;" />
 </div>
 
 <br />
