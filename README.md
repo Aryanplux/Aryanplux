@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&height=70&lines=Hi+👋,+I'm+Aryan+Dhiman;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&height=70&lines=Hi+👋,+I'm+Aryan+Dhiman;Full-Stack+Developer;JAVA+Enthusiast;Problem+Solver" alt="Typing Animation" />
 </div>
 
 <br />
