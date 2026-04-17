@@ -9,7 +9,7 @@
 
 <!-- Profile GIF with Glow Effect -->
 <div align="center">
-  <img src="https://imgs.search.brave.com/6vnlt73NoBsVzbZAsUL6zriLJ4WXC0C7EeQ9ell1hes/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvcHJvZ3Jh/bW1pbmctYW5ncnkt/cHVuY2hpbmcta2V5/Ym9hcmQtZnc0NXlo/MmUzOWcyNHlsYi5n/aWY.gif(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE5Zm1nNnV5cXRwNW82ZWlicTdocDlmMWdoNW9xYm1wa2tqdW1rbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)" alt="Waving GIF" width="220" style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0 0 25px #00F7FF;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE5Zm1nNnV5cXRwNW82ZWlicTdocDlmMWdoNW9xYm1wa2tqdW1rbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Waving GIF" width="220" style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0 0 25px #00F7FF;" />
 </div>
 
 <br />
