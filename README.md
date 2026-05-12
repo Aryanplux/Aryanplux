@@ -3,11 +3,12 @@
 <!-- TOP WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
-<!-- GLITCH TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%5BSYSTEM+BOOT...%5D;%5BKERNEL+LOADED%5D;%5BINITIALIZING+USER+PROFILE...%5D;%5BACCESS+GRANTED%3A+ARYAN_DHIMAN%5D;%5BSTATUS%3A+BUILDING+THE+FUTURE%5D" />
+<!-- BOOT SEQUENCE -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=[SYSTEM+BOOT...];[KERNEL+LOADED];[INITIALIZING+USER+PROFILE...];[ACCESS+GRANTED:+ARYAN_DHIMAN];[STATUS:+BUILDING+THE+FUTURE]" />
 
 <br/>
 
+<!-- MAIN BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:FF2A6D,100:00F7FF&height=200&section=header&text=ARYAN%20DHIMAN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Full-Stack%20Developer%20%7C%20Java%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=85&descSize=16&descColor=00F7FF" width="100%"/>
 
 </div>
@@ -24,19 +25,19 @@ $ whoami
 
 $ cat about.txt
 ┌─────────────────────────────────┐
-│  🎓 B.Tech @ Shoolini Univ.    │
-│  📍 Himachal Pradesh, India    │
-│  ☕ Coffee → Code → Deploy     │
-│  🧠 Learning never stops       │
-│  🔥 Hackathon Runner-up        │
-│  🚀 Building: UniKart          │
+│  [+] B.Tech @ Shoolini Univ.   │
+│  [+] Himachal Pradesh, India   │
+│  [+] Coffee → Code → Deploy    │
+│  [+] Learning never stops      │
+│  [+] Hackathon Runner-up       │
+│  [+] Building: UniKart         │
 └─────────────────────────────────┘
 
 $ status --verbose
-> Currently: Cooking something big
-> Mood: [ ██████████ ] 100% Focused
-> Coffee Level: [ ████████░░ ] 80%
-> Bug Count: [ █░░░░░░░░░ ] Decreasing
+> Currently : Cooking something big
+> Mood      : [██████████] 100% Focused
+> Coffee    : [████████░░] 80%
+> Bug Count : [█░░░░░░░░░] Decreasing
 ```
 
 </td>
@@ -46,10 +47,10 @@ $ status --verbose
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-aryan__9-%237289DA?style=flat-square&logo=discord&logoColor=white&labelColor=0f0c29)](https://discord.gg/aryan_9)
-[![Instagram](https://img.shields.io/badge/Instagram-aryan__dhiman09-%23E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0f0c29)](https://instagram.com/aryan_dhiman09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Dhiman-%230077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/aryan-dhiman-a8974628b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aryan--dhiman.vercel.app-%2300F7FF?style=flat-square&logo=firefox&logoColor=white&labelColor=0f0c29)](https://aryan-dhiman.vercel.app)
+[![Discord](https://img.shields.io/badge/Discord-aryan__9-7289DA?style=flat-square&logo=discord&logoColor=white&labelColor=0f0c29)](https://discord.gg/aryan_9)
+[![Instagram](https://img.shields.io/badge/Instagram-aryan__dhiman09-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0f0c29)](https://instagram.com/aryan_dhiman09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Dhiman-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/aryan-dhiman-a8974628b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aryan--dhiman.vercel.app-00F7FF?style=flat-square&logo=vercel&logoColor=white&labelColor=0f0c29)](https://aryan-dhiman.vercel.app)
 
 </td>
 </tr>
@@ -57,24 +58,33 @@ $ status --verbose
 
 ---
 
-## ⚡ ARSENAL — Tech Stack
+<div align="center">
+<img src="https://img.shields.io/badge/▸%20ARSENAL-TECH%20STACK-00F7FF?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=0f0c29"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-### ◈ Core Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark&perline=5" />
 
-### ◈ Frameworks & Backend
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=react,django,spring,mysql&theme=dark&perline=4" />
 
-### ◈ DevOps & Cloud
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode&theme=dark&perline=5" />
 
 </div>
 
 ---
 
-## 🏆 TROPHIES — The Hall of Fame
+<div align="center">
+<img src="https://img.shields.io/badge/▸%20HALL%20OF%20FAME-TROPHIES-FF2A6D?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -84,38 +94,47 @@ $ status --verbose
 
 ---
 
-## 📊 ANALYTICS — The Numbers Don't Lie
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryanplux&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2A6D&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanplux&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8"/>
+<img src="https://img.shields.io/badge/▸%20ANALYTICS-THE%20NUMBERS%20DON'T%20LIE-00F7FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0f0c29"/>
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanplux&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF2A6D&fire=FF2A6D&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=808080&sideNums=FFFFFF" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aryanplux&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2A6D&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanplux&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanplux&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF2A6D&fire=FF2A6D&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=808080&sideNums=FFFFFF" height="180"/>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SERPENT
+<div align="center">
+<img src="https://img.shields.io/badge/▸%20ACTIVITY-WATCH%20ME%20COOK-FF2A6D?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryanplux/Aryanplux/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryanplux/Aryanplux/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryanplux/Aryanplux/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> 💡 *To activate the snake, add a GitHub Actions workflow — see [platane/snk](https://github.com/platane/snk)*
+[![Aryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryanplux&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF&line=FF2A6D&point=FFFFFF&area=true&area_color=00F7FF)](https://github.com/Aryanplux)
 
 </div>
 
 ---
 
-## 🚀 PROJECTS — Deployed to the Real World
+<div align="center">
+<img src="https://img.shields.io/badge/▸%20PROJECTS-DEPLOYED%20TO%20THE%20REAL%20WORLD-00F7FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f0c29"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -123,45 +142,45 @@ $ status --verbose
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 UniKart
-**University Digital Marketplace**
+### `[01]` UniKart — University Marketplace
 
-> 🏆 **Runner-Up** — Inter College Hackathon
+> **Runner-Up** — Inter College Hackathon
 
 A secure, university-exclusive marketplace where students monetize skills and trade products — powered by AI matching and gamification.
 
-**Key Features:**
-- 🔐 University email verification
-- 🤖 AI-based product/skill matching
-- 🏅 Gamification badges & leaderboard
-- 💼 Auto portfolio generation
-- 💸 UPI payment integration
-
 ```
-React · Django REST · MySQL · Python AI · UPI
+[+] University email verification
+[+] AI-based product/skill matching
+[+] Gamification badges & leaderboard
+[+] Auto portfolio generation
+[+] UPI payment integration
 ```
 
-[![YouTube](https://img.shields.io/badge/▶_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/UOp9HBIOCY4)
+```
+Stack: React · Django REST · MySQL · Python AI · UPI
+```
+
+[![YouTube](https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/UOp9HBIOCY4)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanplux/UniKart)
 [![Docs](https://img.shields.io/badge/PDF_Docs-0080FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Aryanplux/UniKart/blob/main/UNIKART%20Documentation.pdf)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 More in the Lab...
+### `[02]` More in the Lab...
 
-```
-> git log --oneline --all
+```bash
+$ git log --oneline --all
 
-Building in stealth mode 🥷
-Something is cooking...
-Stay tuned for the drop.
+> Building in stealth mode
+> Something is cooking...
+> Stay tuned for the drop.
 
 
 $ ls /projects/upcoming
-  ├── 🔒 [CLASSIFIED]
-  ├── 🔒 [CLASSIFIED]  
-  └── 🔒 [CLASSIFIED]
+  ├── [CLASSIFIED]
+  ├── [CLASSIFIED]
+  └── [CLASSIFIED]
 
 $ cat hint.txt
   "When it drops, you'll know."
@@ -179,21 +198,29 @@ $ cat hint.txt
 
 ---
 
-## 🎓 CERTIFICATIONS — Proof of Work
+<div align="center">
+<img src="https://img.shields.io/badge/▸%20CERTIFICATIONS-PROOF%20OF%20WORK-FF2A6D?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0f0c29"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-| 🏅 Credential | 🏢 Issuer | 📅 Issued | 🔗 Verify |
+| Credential | Issuer | Issued | Verify |
 |:---:|:---:|:---:|:---:|
-| **OCI AI Foundations Associate** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | Sep 2025 | [🔗 Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=876EA352AF8B5086DA1D87EC655A0B513346E676DFE624E8182C1FCE22D9418E) |
-| **🏆 Hackathon Runner-Up** | ![Shoolini](https://img.shields.io/badge/Shoolini_University-0f0c29?style=flat-square) | Oct 2025 | [🔗 Credential](https://media.licdn.com/dms/image/v2/D5622AQE_x4wYpmWEyg/feedshare-shrink_800/B56Zperh_eIcAg-/0/1762525061780?e=1765411200&v=beta&t=J9bD3nevFca5zeYRa9tkTaikfDn6lC-7dyvmqOKQsSc) |
-| **Scientific Computing with Python** | ![FCC](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white) | Jul 2024 | [🔗 Certificate](https://www.freecodecamp.org/certification/AryanDhiman/scientific-computing-with-python-v7) |
+| **OCI AI Foundations Associate** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | Sep 2025 | [Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=876EA352AF8B5086DA1D87EC655A0B513346E676DFE624E8182C1FCE22D9418E) |
+| **Hackathon Runner-Up** | ![Shoolini](https://img.shields.io/badge/Shoolini_University-302b63?style=flat-square&logoColor=white) | Oct 2025 | [Credential](https://media.licdn.com/dms/image/v2/D5622AQE_x4wYpmWEyg/feedshare-shrink_800/B56Zperh_eIcAg-/0/1762525061780?e=1765411200&v=beta&t=J9bD3nevFca5zeYRa9tkTaikfDn6lC-7dyvmqOKQsSc) |
+| **Scientific Computing with Python** | ![FCC](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white) | Jul 2024 | [Certificate](https://www.freecodecamp.org/certification/AryanDhiman/scientific-computing-with-python-v7) |
 
 </div>
 
 ---
 
-## 🧠 LEETCODE — Brain Gym
+<div align="center">
+<img src="https://img.shields.io/badge/▸%20LEETCODE-BRAIN%20GYM-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -203,62 +230,50 @@ $ cat hint.txt
 
 ---
 
-## 📈 ACTIVITY — Watch Me Cook
-
 <div align="center">
-
-[![Aryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryanplux&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF&line=FF2A6D&point=FFFFFF&area=true&area_color=00F7FF)](https://github.com/Aryanplux)
-
+<img src="https://img.shields.io/badge/▸%20VIBING%20TO-CODING%20PLAYLIST-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0f0c29"/>
 </div>
-
----
-
-## 🎵 CURRENTLY VIBING TO
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=5Ymts0OPxrphCHcKZekPqW&cover_image=true&theme=novatorem&bar_color=00F7FF&bar_color_cover=false)](https://open.spotify.com/playlist/5Ymts0OPxrphCHcKZekPqW?si=8d73c1bab9bd428b)
-
-</div>
-
----
-
-## 💬 RANDOM DEV WISDOM
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-### 📡 SIGNAL OPEN — Let's Build Something
-
-> *The best time to start was yesterday. The second best time is right now.*
 
 <br/>
 
+<div align="center">
+
+[![Open Coding Playlist](https://img.shields.io/badge/Open%20Coding%20Playlist-%E2%96%B6%20Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0f0c29)](https://open.spotify.com/playlist/5Ymts0OPxrphCHcKZekPqW?si=8d73c1bab9bd428b)
+
 ```
+[*] Best consumed at 2AM with cold coffee and a good problem to solve.
+```
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/▸%20SIGNAL%20OPEN-LET'S%20BUILD%20SOMETHING-00F7FF?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0f0c29"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+```java
 if (collaboration == true) {
-    System.out.println("Let's build something that matters 🚀");
-    sendEmail("aryan.dhiman@example.com");
+    System.out.println("Let's build something that matters");
+    Contact.send("aryan.dhiman@example.com");
 }
 ```
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Shoot_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:aryan.dhiman@example.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/aryan-dhiman-a8974628b)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00F7FF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0f0c29)](https://aryan-dhiman.vercel.app)
+[![Email](https://img.shields.io/badge/Shoot%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:aryan.dhiman@example.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/aryan-dhiman-a8974628b)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29)](https://aryan-dhiman.vercel.app)
 
 <br/>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%5BSESSION+ACTIVE%5D+Visitors+who+witnessed+this+profile%3A;%5BCOUNTING...%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=[SESSION+ACTIVE]+Visitors+who+witnessed+this+profile:;[COUNTING...]" />
 
 <img src="https://profile-counter.glitch.me/Aryanplux/count.svg" />
 
