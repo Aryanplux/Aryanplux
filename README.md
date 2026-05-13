@@ -1,60 +1,55 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ═══════════════════════════════════════════════════════ HEADER ══ -->
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=100&section=header" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1400&pause=300&color=00FF41&center=true&vCenter=true&width=720&lines=[ARYAN_OS+v2.6]+SECURE+BOOT+INITIATED...;Verifying+kernel+integrity+..................+OK;Loading+modules:+[java]+[python]+[react]+[spring]+[lwjgl];Mounting+filesystem:+/projects/bunpitsuka+/projects/bit-no-mori;Network+UP:+github+%E2%86%92+linkedin+%E2%86%92+portfolio+%E2%86%92+discord;[+]+All+systems+nominal.+Welcome%2C+root." />
 
-<!-- GLITCH BOOT LINES -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1200&pause=200&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=[%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88];ARYAN_OS+v2.6+--+SECURE+BOOT+INITIATED;Verifying+kernel+integrity............+OK;Loading+modules:+[java]+[python]+[react]+[spring];Mounting+filesystem:+/projects/bunpitsuka+....+OK;Network+interfaces:+github+linkedin+portfolio+UP;[+]+All+systems+nominal.+Welcome%2C+root." />
+<br/>
 
-<!-- MAIN VENOM BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:7B2FBE,100:FF2A6D&height=220&text=ARYAN%20DHIMAN&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=60&desc=Full-Stack%20Engineer%20%7C%20Java%20%26%20AI%20Enthusiast%20%7C%20Problem%20Architect&descSize=15&descColor=00F7FF&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F7FF,50:7B2FBE,100:FF2A6D&height=160&text=ARYAN%20DHIMAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Engineer%20%7C%20Java%20%26%20AI%20Enthusiast%20%7C%20Problem%20Architect&descSize=14&descColor=00F7FF&descAlignY=75" width="100%"/>
 
-<!-- SECONDARY ANIMATED LINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=800&color=FF2A6D&center=true&vCenter=true&width=700&lines=I+don%E2%80%99t+just+write+code+%E2%80%94+I+architect+solutions.;Learn+it.+Build+it.+Deploy+it.+Scale+it.+Repeat.;Full-Stack+%7C+Spring+Boot+%7C+Django+%7C+React+%7C+Docker+%7C+AWS;Turning+caffeine+into+production-ready+software+since+2023." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3200&pause=900&color=FF2A6D&center=true&vCenter=true&width=720&lines=I+don%E2%80%99t+just+write+code+%E2%80%94+I+architect+solutions.;Learn+it.+Build+it.+Deploy+it.+Scale+it.+Repeat.;Full-Stack+%7C+Spring+Boot+%7C+Django+%7C+React+%7C+LWJGL+%7C+Docker;Turning+caffeine+into+production-ready+software+since+2023." />
 
 </div>
 
 ---
 
-<!-- ===================== BIO + LINKS ===================== -->
+<!-- ══════════════════════════════════════════════════════════ BIO ══ -->
 
 <table align="center" width="100%">
 <tr>
-
 <td align="left" valign="top" width="55%">
 
-```ansi
+```
 ╔══════════════════════════════════════════════╗
-║           ARYAN_OS  --  /etc/profile         ║
+║         ARYAN_OS  ──  /etc/profile           ║
 ╠══════════════════════════════════════════════╣
 ║  user     →  Aryan Dhiman                   ║
 ║  role     →  Full-Stack Developer            ║
 ║  base     →  Himachal Pradesh, India         ║
 ║  college  →  Shoolini University (B.Tech)    ║
 ║  status   →  Open to Opportunities           ║
-║  passion  →  Java + AI + Problem Solving     ║
+║  passion  →  Java · AI · Game Engines        ║
 ╠══════════════════════════════════════════════╣
 ║  $ uptime --human                            ║
-║  > Coding since  : Oct 2023                  ║
-║  > Commits made  : 360+  and climbing        ║
-║  > Longest streak: 8 days                    ║
-║  > Projects live : bunpitsuka & more         ║
+║  > Coding since   : Oct 2023                 ║
+║  > Commits made   : 360+  and climbing       ║
+║  > Longest streak : 8 days                   ║
+║  > Active repos   : Bunpitsuka · Bit-no-Mori ║
 ╠══════════════════════════════════════════════╣
 ║  $ ping mood                                 ║
-║  > Focused   [██████████] 100%               ║
-║  > Coffee    [████████░░]  80%               ║
-║  > Curiosity [██████████] 100%               ║
-║  > Bugs left [░░░░░░░░░░]   0%  (lol)        ║
+║  > Focused    [██████████] 100%              ║
+║  > Coffee     [████████░░]  80%              ║
+║  > Curiosity  [██████████] 100%              ║
+║  > Bugs left  [░░░░░░░░░░]   0%  (lol)       ║
 ╚══════════════════════════════════════════════╝
 ```
 
 </td>
-
 <td align="center" valign="top" width="45%">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE5Zm1nNnV5cXRwNW82ZWlicTdocDlmMWdoNW9xYm1wa2tqdW1rbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="260"/>
 
 <br/><br/>
 
@@ -73,12 +68,10 @@
 
 ---
 
-<!-- ===================== TECH ARSENAL ===================== -->
+<!-- ══════════════════════════════════════════════════ TECH STACK ══ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20ARSENAL%20%E2%80%94%20FULL%20TECH%20STACK%20%20%E2%97%82&fontSize=16&fontColor=00F7FF&animation=fadeIn" width="100%"/>
-
 </div>
 
 <br/>
@@ -133,24 +126,24 @@
 </td>
 <td align="center" width="33%">
 
-**`[ AI & DATA ]`**
+**`[ GAME & GRAPHICS ]`**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=opengl,linux,c&theme=dark" />
 
-![Python AI](https://img.shields.io/badge/Python%20AI-Certified-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0f0c29)
-![Oracle OCI](https://img.shields.io/badge/OCI%20AI-Certified-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0f0c29)
-![Sci Computing](https://img.shields.io/badge/Sci.%20Computing-FCC%20Certified-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white&labelColor=0f0c29)
+![LWJGL](https://img.shields.io/badge/LWJGL-Graphics-FF2A6D?style=flat-square&logo=opengl&logoColor=white&labelColor=0f0c29)
+![OpenGL](https://img.shields.io/badge/OpenGL-Rendering-5586A4?style=flat-square&logo=opengl&logoColor=white&labelColor=0f0c29)
+![Game Dev](https://img.shields.io/badge/2D%20Engine-Building-00FF41?style=flat-square&logoColor=white&labelColor=0f0c29)
 
 </td>
 <td align="center" width="33%">
 
-**`[ TOOLS & ENV ]`**
+**`[ AI & DATA ]`**
 
-<img src="https://skillicons.dev/icons?i=linux,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,python&theme=dark" />
 
-![Linux](https://img.shields.io/badge/Linux-Daily%20Driver-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0f0c29)
-![VSCode](https://img.shields.io/badge/VSCode-Primary%20IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0f0c29)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0f0c29)
+![Python AI](https://img.shields.io/badge/Python%20AI-Certified-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0f0c29)
+![Oracle OCI](https://img.shields.io/badge/OCI%20AI-Certified-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0f0c29)
+![Sci Computing](https://img.shields.io/badge/Sci.%20Computing-FCC-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white&labelColor=0f0c29)
 
 </td>
 </tr>
@@ -158,12 +151,10 @@
 
 ---
 
-<!-- ===================== SKILL POWER LEVELS ===================== -->
+<!-- ════════════════════════════════════════════ SKILL POWER LEVELS ══ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20POWER%20LEVELS%20%E2%80%94%20PROFICIENCY%20INDEX%20%20%E2%97%82&fontSize=16&fontColor=FF2A6D&animation=fadeIn" width="100%"/>
-
 </div>
 
 <br/>
@@ -173,22 +164,21 @@
 ```
   Java           ████████████████████░░  90%   [ ADVANCED    ]
   Python         ████████████████████░░  88%   [ ADVANCED    ]
-  React          ████████████████░░░░░░  72%   [ PROFICIENT  ]
   Spring Boot    ███████████████░░░░░░░  68%   [ PROFICIENT  ]
   Django REST    ███████████████░░░░░░░  70%   [ PROFICIENT  ]
+  React          ████████████████░░░░░░  72%   [ PROFICIENT  ]
+  LWJGL / OpenGL █████████████░░░░░░░░░  58%   [ BUILDING    ]
   Docker         █████████████░░░░░░░░░  60%   [ LEARNING    ]
   AWS            ██████████░░░░░░░░░░░░  45%   [ LEARNING    ]
-  AI / ML        ████████████░░░░░░░░░░  55%   [ BUILDING    ]
 ```
 
 </div>
 
 ---
 
-<!-- ===================== HALL OF FAME ===================== -->
+<!-- ══════════════════════════════════════════════ HALL OF FAME ══ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20HALL%20OF%20FAME%20%E2%80%94%20TROPHIES%20%20%E2%97%82&fontSize=16&fontColor=FFD700&animation=fadeIn" width="100%"/>
 
 <br/><br/>
@@ -199,50 +189,37 @@
 
 ---
 
-<!-- ===================== ANALYTICS ===================== -->
+<!-- ══════════════════════════════════════════════════ ANALYTICS ══ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20ANALYTICS%20%E2%80%94%20THE%20NUMBERS%20DON'T%20LIE%20%20%E2%97%82&fontSize=16&fontColor=00F7FF&animation=fadeIn" width="100%"/>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanplux&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF2A6D&fire=FF2A6D&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=808080&sideNums=FFFFFF&border_radius=10" width="70%"/>
-
-</div>
+![Commits](https://img.shields.io/badge/Total%20Commits-360%2B-00F7FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29)
+![Since](https://img.shields.io/badge/Coding%20Since-Oct%202023-FF2A6D?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)
+![Streak](https://img.shields.io/badge/Longest%20Streak-8%20Days-FFD700?style=for-the-badge&logo=fireflyiii&logoColor=white&labelColor=0f0c29)
+![Status](https://img.shields.io/badge/Status-Active-00FF41?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0f0c29)
 
 <br/>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanplux&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF2A6D&fire=FF2A6D&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=808080&sideNums=FFFFFF&border_radius=10" width="68%"/>
+
+<br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryanplux&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF&line=FF2A6D&point=FFFFFF&area=true&area_color=00F7FF&radius=8)](https://github.com/Aryanplux)
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<!-- QUICK STATS IN BADGES -->
-![Commits](https://img.shields.io/badge/Total%20Commits-360%2B-00F7FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29)
-![Since](https://img.shields.io/badge/Coding%20Since-Oct%202023-FF2A6D?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)
-![Streak](https://img.shields.io/badge/Longest%20Streak-8%20Days-FFD700?style=for-the-badge&logo=fire&logoColor=white&labelColor=0f0c29)
-![Repos](https://img.shields.io/badge/Public%20Repos-Active-7B2FBE?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)
-
-</div>
-
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ══════════════════════════════════════════════════ PROJECTS ══ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20PROJECTS%20%E2%80%94%20SHIPPED%20TO%20PRODUCTION%20%20%E2%97%82&fontSize=16&fontColor=FF2A6D&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20PROJECTS%20%E2%80%94%20SHIPPED%20%26%20IN%20PROGRESS%20%20%E2%97%82&fontSize=16&fontColor=FF2A6D&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -250,39 +227,35 @@
 <table align="center" width="100%">
 <tr>
 
-<!-- PROJECT 1 -->
+<!-- PROJECT 1: BUNPITSUKA -->
 <td valign="top" width="50%">
 
 <div align="center">
 
-![Bunpitsuka Banner](https://img.shields.io/badge/%5B%2001%20%5D-BUNPITSUKA%20%E2%80%94%20AI%20DEMO-00F7FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0c29)
+![P1](https://img.shields.io/badge/%5B%2001%20%5D-BUNPITSUKA%20%E2%80%94%20AI%20DEMO-00F7FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0c29)
 
 </div>
 
 ```
 NAME    : Bunpitsuka
 TYPE    : AI-Powered Application
-STATUS  : [ LIVE ] ▶ Deployed
+STATUS  : [ LIVE ]  Deployed & Open Source
 ROLE    : Solo Developer
-RUNTIME : Python · AI/ML Core
 ```
 
-**What it does:**
-An intelligent AI demo application showcasing real-world machine learning pipelines — from data ingestion to model inference — wrapped in a clean, deployable interface. Built to prove that AI isn't magic; it's engineering.
+An intelligent AI demo application showcasing real-world machine learning pipelines — from data ingestion to model inference — wrapped in a clean, deployable interface.
 
 ```
 [+] AI inference pipeline
-[+] Real-world ML integration  
+[+] Real-world ML integration
 [+] Clean production interface
 [+] Full end-to-end deployment
 [+] Documented & open source
 ```
 
-**Stack:**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0f0c29)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Core-FF2A6D?style=flat-square&logo=openai&logoColor=white&labelColor=0f0c29)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0f0c29)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML%20Core-FF2A6D?style=flat-square&logo=openai&logoColor=white&labelColor=0f0c29)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0f0c29)
 
 <div align="center">
 
@@ -293,46 +266,40 @@ An intelligent AI demo application showcasing real-world machine learning pipeli
 
 </td>
 
-<!-- PROJECT 2 -->
+<!-- PROJECT 2: BIT-NO-MORI -->
 <td valign="top" width="50%">
 
 <div align="center">
 
-![Stealth Banner](https://img.shields.io/badge/%5B%2002%20%5D-STEALTH%20PROJECT%20%E2%80%94%20IN%20LAB-FF2A6D?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=0f0c29)
+![P2](https://img.shields.io/badge/%5B%2002%20%5D-BIT--NO--MORI%20%E2%80%94%20GAME%20ENGINE-FF2A6D?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0f0c29)
 
 </div>
 
-```bash
-$ git log --all --oneline
-
-a1b2c3d  [WIP] Architecting the backbone
-d4e5f6a  [WIP] Database schema locked in
-7b8c9d0  [WIP] Core logic 80% done
-e1f2a3b  [WIP] "this is going to be insane"
-
-$ cat /secrets/project-02.txt
-
-  NAME    : [REDACTED]
-  TYPE    : [CLASSIFIED]
-  ETA     : Soon™
-  STATUS  : Cooking at max heat
-
-$ ls /sneak-peek/
-
-  > scale       : production-grade
-  > stack       : full ecosystem
-  > innovation  : high
-  > launch      : imminent
-
-$ cat motivation.txt
-  "Build it like the world
-   is watching. Because soon,
-   it will be."
 ```
+NAME    : Bit-no-Mori
+TYPE    : Java 2D Game Engine
+STATUS  : [ WIP ]  Actively Building
+ROLE    : Solo Developer / Architect
+```
+
+A Java-based 2D game engine leveraging LWJGL for low-level graphics control — built from scratch with a modular architecture tailored for 8-bit and 16-bit pixelated games with physics-driven platforming.
+
+```
+[+] LWJGL low-level graphics pipeline
+[+] Modular engine architecture
+[+] 8-bit / 16-bit pixel art renderer
+[+] Physics-driven platforming system
+[+] Custom entity-component framework
+```
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white&labelColor=0f0c29)
+![LWJGL](https://img.shields.io/badge/LWJGL-Graphics-5586A4?style=flat-square&logo=opengl&logoColor=white&labelColor=0f0c29)
+![OpenGL](https://img.shields.io/badge/OpenGL-Rendering-00FF41?style=flat-square&logo=opengl&logoColor=white&labelColor=0f0c29)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Watch%20This%20Space-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanplux?tab=repositories)
+[![Source](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanplux/Bit-no-Mori)
+[![Watch Space](https://img.shields.io/badge/Watch%20This%20Space-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanplux?tab=repositories)
 
 </div>
 
@@ -342,99 +309,75 @@ $ cat motivation.txt
 
 ---
 
-<!-- ===================== DEV JOURNEY TIMELINE ===================== -->
+<!-- ════════════════════════════════════════════ CURRENTLY BUILDING ══ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20DEV%20JOURNEY%20%E2%80%94%20THE%20ORIGIN%20STORY%20%20%E2%97%82&fontSize=16&fontColor=7B2FBE&animation=fadeIn" width="100%"/>
-
-</div>
-
-<br/>
-
-```
-  2023  OCT  ──▶  First commit. Hello World in Java. No turning back.
-                   └── Started B.Tech @ Shoolini University
-
-  2024  JUL  ──▶  Earned: Scientific Computing with Python — freeCodeCamp
-                   └── Built first full data pipeline. Python clicked.
-
-  2024  DEC  ──▶  First full-stack project shipped with Django + React
-                   └── REST APIs, JWT auth, MySQL. The stack took shape.
-
-  2025  SEP  ──▶  Certified: Oracle OCI AI Foundations Associate
-                   └── AI/ML entered the arsenal. Things got interesting.
-
-  2025  OCT  ──▶  Runner-Up — Inter College Hackathon @ Shoolini University
-                   └── Built UniKart in 24hrs. Team: Hackuna Matata.
-
-  2026  APR  ──▶  Shipped: Bunpitsuka — AI Demo. Live & open source.
-                   └── Production-grade ML pipeline. First AI project deployed.
-
-  2026  NOW  ──▶  [ CURRENTLY LOADING... building the next big thing ]
-                   └── Follow along: github.com/Aryanplux
-```
-
----
-
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20CURRENTLY%20LOADING%20%E2%80%94%20WHAT'S%20NEXT%20%20%E2%97%82&fontSize=16&fontColor=00FF41&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20CURRENTLY%20BUILDING%20%E2%80%94%20BIT-NO-MORI%20%20%E2%97%82&fontSize=16&fontColor=00FF41&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="25%">
+<td valign="top" width="50%">
 
-![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
+```java
+// Bit-no-Mori — Engine Architecture
+// github.com/Aryanplux/Bit-no-Mori
 
-**AWS Architect**
+public class BitNoMori {
 
-![Progress](https://img.shields.io/badge/Progress-45%25-232F3E?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0f0c29)
+  // Core Modules
+  EngineCore       core;       // Game loop, timing
+  LWJGLRenderer   renderer;   // OpenGL pipeline
+  SceneManager    scenes;     // World management
+  PhysicsEngine   physics;    // Collision & gravity
+  InputHandler    input;      // Keyboard / gamepad
+  AssetLoader     assets;     // Sprites, tiles, audio
 
-`Cloud infrastructure`
-`IAM · EC2 · S3 · RDS`
+  // Current Sprint
+  String focus = "Pixel renderer + tile maps";
+  String next  = "Entity-Component-System (ECS)";
+  String goal  = "Release playable demo build";
 
-</td>
-<td align="center" width="25%">
-
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)
-
-**Kubernetes**
-
-![Progress](https://img.shields.io/badge/Progress-30%25-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0f0c29)
-
-`Orchestration`
-`Pods · Services · Helm`
-
-</td>
-<td align="center" width="25%">
-
-![Kafka](https://skillicons.dev/icons?i=kafka&theme=dark)
-
-**Apache Kafka**
-
-![Progress](https://img.shields.io/badge/Progress-25%25-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0f0c29)
-
-`Event Streaming`
-`Topics · Brokers · Consumers`
+  void run() {
+    while (engine.isRunning()) {
+      input.poll();
+      physics.step(deltaTime);
+      scenes.update();
+      renderer.drawFrame();  // 60fps target
+    }
+  }
+}
+```
 
 </td>
-<td align="center" width="25%">
+<td valign="top" width="50%">
 
-![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
-
-**Redis**
-
-![Progress](https://img.shields.io/badge/Progress-40%25-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0f0c29)
-
-`Caching Layer`
-`Pub/Sub · Sessions`
+```
+╔══════════════════════════════════════════╗
+║       BIT-NO-MORI  ──  BUILD STATUS      ║
+╠══════════════════════════════════════════╣
+║  Language    : Java (Core)               ║
+║  Graphics    : LWJGL + OpenGL            ║
+║  Type        : 2D Game Engine            ║
+║  Style       : 8-bit / 16-bit Pixel Art  ║
+╠══════════════════════════════════════════╣
+║  PROGRESS                                ║
+║  Engine Core      [████████████░░░]  80% ║
+║  LWJGL Renderer   [██████████░░░░░]  65% ║
+║  Tile Map System  [████████░░░░░░░]  55% ║
+║  Physics Engine   [███████░░░░░░░░]  45% ║
+║  ECS Framework    [████░░░░░░░░░░░]  25% ║
+║  Demo Level       [██░░░░░░░░░░░░░]  15% ║
+╠══════════════════════════════════════════╣
+║  $ git status                            ║
+║  > On branch: main                       ║
+║  > Files changed: 12                     ║
+║  > Insertions: +847  Deletions: -203     ║
+║  > Last commit: "fix physics delta bug"  ║
+╚══════════════════════════════════════════╝
+```
 
 </td>
 </tr>
@@ -442,12 +385,10 @@ $ cat motivation.txt
 
 ---
 
-<!-- ===================== CERTIFICATIONS ===================== -->
+<!-- ══════════════════════════════════════════ CERTIFICATIONS ══ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20CERTIFICATIONS%20%E2%80%94%20PROOF%20OF%20WORK%20%20%E2%97%82&fontSize=16&fontColor=FFD700&animation=fadeIn" width="100%"/>
-
 </div>
 
 <br/>
@@ -457,14 +398,13 @@ $ cat motivation.txt
 
 <td align="center" width="33%">
 
-![Oracle](https://img.shields.io/badge/ORACLE-OCI%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0f0c29)
+![Oracle](https://img.shields.io/badge/ORACLE-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0f0c29)
 
 ```
-Issued   : September 2025
-Issuer   : Oracle Corporation
-Domain   : AI / Cloud
-Level    : Associate
-Status   : [ VERIFIED ]
+Issued  : September 2025
+Domain  : AI / Cloud
+Level   : Associate
+Status  : [ VERIFIED ]
 ```
 
 [![Verify](https://img.shields.io/badge/Verify%20Credential-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=876EA352AF8B5086DA1D87EC655A0B513346E676DFE624E8182C1FCE22D9418E)
@@ -473,14 +413,13 @@ Status   : [ VERIFIED ]
 
 <td align="center" width="33%">
 
-![Hackathon](https://img.shields.io/badge/SHOOLINI%20UNIV-Hackathon%20Runner--Up-FFD700?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=0f0c29)
+![Hackathon](https://img.shields.io/badge/SHOOLINI-Hackathon%20Runner--Up-FFD700?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=0f0c29)
 
 ```
-Issued   : October 2025
-Issuer   : Shoolini University
-Event    : Inter College Hackathon
-Team     : Hackuna Matata
-Status   : [ RUNNER-UP ]
+Issued  : October 2025
+Event   : Inter College Hackathon
+Team    : Hackuna Matata
+Status  : [ RUNNER-UP ]
 ```
 
 [![View](https://img.shields.io/badge/View%20Certificate-302b63?style=flat-square&logo=linkedin&logoColor=white)](https://media.licdn.com/dms/image/v2/D5622AQE_x4wYpmWEyg/feedshare-shrink_800/B56Zperh_eIcAg-/0/1762525061780?e=1765411200&v=beta&t=J9bD3nevFca5zeYRa9tkTaikfDn6lC-7dyvmqOKQsSc)
@@ -489,14 +428,13 @@ Status   : [ RUNNER-UP ]
 
 <td align="center" width="33%">
 
-![FCC](https://img.shields.io/badge/FREECODECAMP-Scientific%20Computing%20Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white&labelColor=0f0c29)
+![FCC](https://img.shields.io/badge/FREECODECAMP-Scientific%20Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white&labelColor=0f0c29)
 
 ```
-Issued   : July 2024
-Issuer   : freeCodeCamp
-Domain   : Python / Data Science
-Level    : Certification
-Status   : [ VERIFIED ]
+Issued  : July 2024
+Domain  : Python / Data Science
+Level   : Certification
+Status  : [ VERIFIED ]
 ```
 
 [![Verify](https://img.shields.io/badge/Verify%20Credential-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/AryanDhiman/scientific-computing-with-python-v7)
@@ -507,10 +445,9 @@ Status   : [ VERIFIED ]
 
 ---
 
-<!-- ===================== LEETCODE ===================== -->
+<!-- ══════════════════════════════════════════════════ LEETCODE ══ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20LEETCODE%20%E2%80%94%20BRAIN%20GYM%20%20%E2%97%82&fontSize=16&fontColor=FFA116&animation=fadeIn" width="100%"/>
 
 <br/><br/>
@@ -519,7 +456,7 @@ Status   : [ VERIFIED ]
 
 <br/>
 
-![Easy](https://img.shields.io/badge/Easy-Solved%20%E2%9C%93-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29)
+![Easy](https://img.shields.io/badge/Easy-Solved-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29)
 ![Medium](https://img.shields.io/badge/Medium-Grinding-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29)
 ![Hard](https://img.shields.io/badge/Hard-Incoming-FF2D55?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29)
 
@@ -527,19 +464,17 @@ Status   : [ VERIFIED ]
 
 ---
 
-<!-- ===================== PHILOSOPHY ===================== -->
+<!-- ════════════════════════════════════════════════ PHILOSOPHY ══ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20PHILOSOPHY%20%E2%80%94%20THE%20WAY%20I%20CODE%20%20%E2%97%82&fontSize=16&fontColor=00F7FF&animation=fadeIn" width="100%"/>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=%22Clean+code+is+not+written+by+following+rules.%22;%22It+is+written+by+a+programmer+who+cares.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22The+best+error+message+is+the+one+that+never+shows.%22;%22Ship+fast.+Iterate+faster.+Never+stop+learning.%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=%22Clean+code+is+not+written+by+following+rules.%22;%22It+is+written+by+a+programmer+who+cares.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Ship+fast.+Iterate+faster.+Never+stop+learning.%22;%22Build+it+like+the+world+is+watching.+It+will+be.%22" />
 
 </div>
 
@@ -549,45 +484,45 @@ Status   : [ VERIFIED ]
 <tr>
 <td align="center" width="25%">
 
-![Principle 1](https://img.shields.io/badge/PRINCIPLE-Ship%20It%20Live-00F7FF?style=flat-square&labelColor=0f0c29)
+![P1](https://img.shields.io/badge/PRINCIPLE-Ship%20It%20Live-00F7FF?style=flat-square&labelColor=0f0c29)
 
 ```
-Build → Test
-Deploy → Learn
-Iterate → Repeat
-```
-
-</td>
-<td align="center" width="25%">
-
-![Principle 2](https://img.shields.io/badge/PRINCIPLE-Clean%20Architecture-FF2A6D?style=flat-square&labelColor=0f0c29)
-
-```
-SOLID → Patterns
-DRY   → Readable
-KISS  → Scalable
+Build  →  Test
+Deploy →  Learn
+Repeat →  Forever
 ```
 
 </td>
 <td align="center" width="25%">
 
-![Principle 3](https://img.shields.io/badge/PRINCIPLE-Document%20Everything-FFD700?style=flat-square&labelColor=0f0c29)
+![P2](https://img.shields.io/badge/PRINCIPLE-Clean%20Arch-FF2A6D?style=flat-square&labelColor=0f0c29)
 
 ```
-Code   → Writes
-Docs   → Teach
-README → Sells
+SOLID  →  Patterns
+DRY    →  Readable
+KISS   →  Scalable
 ```
 
 </td>
 <td align="center" width="25%">
 
-![Principle 4](https://img.shields.io/badge/PRINCIPLE-Never%20Stop-7B2FBE?style=flat-square&labelColor=0f0c29)
+![P3](https://img.shields.io/badge/PRINCIPLE-Document%20All-FFD700?style=flat-square&labelColor=0f0c29)
 
 ```
-Learn → Adapt
-Fail  → Analyze
-Rise  → Dominate
+Code   →  Writes
+Docs   →  Teach
+README →  Sells
+```
+
+</td>
+<td align="center" width="25%">
+
+![P4](https://img.shields.io/badge/PRINCIPLE-Never%20Stop-7B2FBE?style=flat-square&labelColor=0f0c29)
+
+```
+Learn  →  Adapt
+Fail   →  Analyze
+Rise   →  Dominate
 ```
 
 </td>
@@ -596,10 +531,9 @@ Rise  → Dominate
 
 ---
 
-<!-- ===================== SPOTIFY ===================== -->
+<!-- ════════════════════════════════════════════════ VIBING TO ══ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20CURRENTLY%20VIBING%20TO%20%20%E2%97%82&fontSize=16&fontColor=1DB954&animation=fadeIn" width="100%"/>
 
 <br/><br/>
@@ -618,12 +552,10 @@ Rise  → Dominate
 
 ---
 
-<!-- ===================== CONTACT ===================== -->
+<!-- ══════════════════════════════════════════ SIGNAL OPEN ══ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=40&text=%E2%96%B8%20%20SIGNAL%20OPEN%20%E2%80%94%20LET'S%20BUILD%20SOMETHING%20%20%E2%97%82&fontSize=16&fontColor=00F7FF&animation=fadeIn" width="100%"/>
-
 </div>
 
 <br/>
@@ -638,7 +570,7 @@ Rise  → Dominate
  */
 public class Aryan implements Developer, Collaborator {
 
-    private final String status = "OPEN_TO_OPPORTUNITIES";
+    private final String status     = "OPEN_TO_OPPORTUNITIES";
     private final String superpower = "Turning complex problems into clean code";
 
     public void connect(String medium) {
@@ -668,15 +600,15 @@ public class Aryan implements Developer, Collaborator {
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ════════════════════════════════════════════════════ FOOTER ══ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=[SESSION+ACTIVE]+Visitors+who+witnessed+this+profile:;[TERMINAL+LOG]+Every+great+developer+started+with+a+single+commit.;[ARYAN_OS]+Still+running.+No+downtime.+Ever." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=[SESSION+ACTIVE]+Visitors+who+witnessed+this+profile:;[ARYAN_OS]+Still+running.+No+downtime.+Ever.;[LOG]+Every+great+developer+started+with+a+single+commit." />
 
 <img src="https://profile-counter.glitch.me/Aryanplux/count.svg" />
 
-<br/>
+<br/><br/>
 
 ![Built with](https://img.shields.io/badge/Built%20with-Passion%20%2B%20Caffeine-FF2A6D?style=flat-square&logo=coffeescript&logoColor=white&labelColor=0f0c29)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes%2C%20Always-00F7FF?style=flat-square&logo=github&logoColor=white&labelColor=0f0c29)
