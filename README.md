@@ -30,7 +30,7 @@ $ cat about.txt
 │  [+] Coffee → Code → Deploy    │
 │  [+] Learning never stops      │
 │  [+] Hackathon Runner-up       │
-│  [+] Building: UniKart         │
+│  [+] Building AI things        │
 └─────────────────────────────────┘
 
 $ status --verbose
@@ -59,7 +59,7 @@ $ status --verbose
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/▸%20ARSENAL-TECH%20STACK-00F7FF?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/ARSENAL-TECH%20STACK-00F7FF?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=0f0c29"/>
 </div>
 
 <br/>
@@ -81,7 +81,7 @@ $ status --verbose
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/▸%20HALL%20OF%20FAME-TROPHIES-FF2A6D?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/HALL%20OF%20FAME-TROPHIES-FF2A6D?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
 </div>
 
 <br/>
@@ -95,29 +95,21 @@ $ status --verbose
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/▸%20ANALYTICS-THE%20NUMBERS%20DON'T%20LIE-00F7FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/ANALYTICS-THE%20NUMBERS%20DON'T%20LIE-00F7FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0f0c29"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aryanplux&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2A6D&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanplux&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanplux&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF2A6D&fire=FF2A6D&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=808080&sideNums=FFFFFF" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanplux&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF2A6D&fire=FF2A6D&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=808080&sideNums=FFFFFF" />
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/▸%20ACTIVITY-WATCH%20ME%20COOK-FF2A6D?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/ACTIVITY-WATCH%20ME%20COOK-FF2A6D?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29"/>
 </div>
 
 <br/>
@@ -131,7 +123,7 @@ $ status --verbose
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/▸%20PROJECTS-DEPLOYED%20TO%20THE%20REAL%20WORLD-00F7FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/PROJECTS-DEPLOYED%20TO%20THE%20REAL%20WORLD-00F7FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f0c29"/>
 </div>
 
 <br/>
@@ -142,27 +134,26 @@ $ status --verbose
 <tr>
 <td width="50%" valign="top">
 
-### `[01]` UniKart — University Marketplace
+### `[01]` Bunpitsuka — AI Demo
 
-> **Runner-Up** — Inter College Hackathon
+> **Built with AI at its core**
 
-A secure, university-exclusive marketplace where students monetize skills and trade products — powered by AI matching and gamification.
-
-```
-[+] University email verification
-[+] AI-based product/skill matching
-[+] Gamification badges & leaderboard
-[+] Auto portfolio generation
-[+] UPI payment integration
-```
+An AI-powered project that demonstrates intelligent automation and real-world application of modern machine learning concepts in a clean, deployable interface.
 
 ```
-Stack: React · Django REST · MySQL · Python AI · UPI
+[+] AI-driven core functionality
+[+] Clean demo interface
+[+] Real-world use case focus
+[+] End-to-end implementation
+[+] Fully deployable architecture
 ```
 
-[![YouTube](https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/UOp9HBIOCY4)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanplux/UniKart)
-[![Docs](https://img.shields.io/badge/PDF_Docs-0080FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Aryanplux/UniKart/blob/main/UNIKART%20Documentation.pdf)
+```
+Stack: Python · AI/ML · Full-Stack Integration
+```
+
+[![YouTube](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AvBLqZtoR8M)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryanplux/Bunpitsuka)
 
 </td>
 <td width="50%" valign="top">
@@ -199,7 +190,7 @@ $ cat hint.txt
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/▸%20CERTIFICATIONS-PROOF%20OF%20WORK-FF2A6D?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/CERTIFICATIONS-PROOF%20OF%20WORK-FF2A6D?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0f0c29"/>
 </div>
 
 <br/>
@@ -217,7 +208,7 @@ $ cat hint.txt
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/▸%20LEETCODE-BRAIN%20GYM-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/LEETCODE-BRAIN%20GYM-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/>
 </div>
 
 <br/>
@@ -231,7 +222,7 @@ $ cat hint.txt
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/▸%20VIBING%20TO-CODING%20PLAYLIST-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/VIBING%20TO-CODING%20PLAYLIST-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0f0c29"/>
 </div>
 
 <br/>
@@ -249,7 +240,7 @@ $ cat hint.txt
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/▸%20SIGNAL%20OPEN-LET'S%20BUILD%20SOMETHING-00F7FF?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/SIGNAL%20OPEN-LET'S%20BUILD%20SOMETHING-00F7FF?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0f0c29"/>
 </div>
 
 <br/>
