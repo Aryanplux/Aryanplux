@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════ HEADER ══ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=100&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="height: 120px; object-fit: cover; border-radius: 12px;"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1400&pause=300&color=00FF41&center=true&vCenter=true&width=720&lines=[ARYAN_OS+v2.6]+SECURE+BOOT+INITIATED...;Verifying+kernel+integrity+..................+OK;Loading+modules:+[java]+[python]+[react]+[spring]+[lwjgl];Mounting+filesystem:+/projects/bunpitsuka+/projects/bit-no-mori;Network+UP:+github+%E2%86%92+linkedin+%E2%86%92+portfolio+%E2%86%92+discord;[+]+All+systems+nominal.+Welcome%2C+root." />
 
@@ -317,10 +317,6 @@ A Java-based 2D game engine leveraging LWJGL for low-level graphics control — 
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="50%">
-
 ```java
 // Bit-no-Mori — Engine Architecture
 // github.com/Aryanplux/Bit-no-Mori
@@ -352,10 +348,7 @@ public class BitNoMori {
 }
 ```
 
-</td>
-<td valign="top" width="50%">
-
-```
+```text
 ╔══════════════════════════════════════════╗
 ║       BIT-NO-MORI  ──  BUILD STATUS      ║
 ╠══════════════════════════════════════════╣
@@ -379,10 +372,6 @@ public class BitNoMori {
 ║  > Last commit: "fix physics delta bug"  ║
 ╚══════════════════════════════════════════╝
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -561,7 +550,7 @@ Rise   →  Dominate
 
 <br/>
 
-<div align="center">
+</div>
 
 ```java
 /**
@@ -590,6 +579,8 @@ public class Aryan implements Developer, Collaborator {
 }
 ```
 
+<div align="center">
+
 <br/>
 
 [![Email](https://img.shields.io/badge/Shoot%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:aryan.dhiman@example.com)
@@ -617,6 +608,6 @@ public class Aryan implements Developer, Collaborator {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,40:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="height: 100px; object-fit: cover; border-radius: 12px;"/>
 
 </div>
