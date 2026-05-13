@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════ HEADER ══ -->
 <div align="center">
 
-<img src="https://imgs.search.brave.com/9hm9aNmV6JMBeB2zd4cJyWY-wkipqQbf0X03PxAh9Cw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9j/b2Rpbmctd2Fsa2lu/Zy1jYXQtMTdtaXR3/a3ppdzJ4enh4ay5n/aWY.gif" width="100%" style="height: 120px; object-fit: cover; border-radius: 12px;"/>
+<img src="https://imgs.search.brave.com/9hm9aNmV6JMBeB2zd4cJyWY-wkipqQbf0X03PxAh9Cw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9j/b2Rpbmctd2Fsa2lu/Zy1jYXQtMTdtaXR3/a3ppdzJ4enh4ay5n/aWY.gif" width="100%" style="height: 200px; object-fit: cover; border-radius: 12px;"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=1400&pause=300&color=00FF41&center=true&vCenter=true&width=720&lines=[ARYAN_OS+v2.6]+SECURE+BOOT+INITIATED...;Verifying+kernel+integrity+..................+OK;Loading+modules:+[java]+[python]+[react]+[spring]+[lwjgl];Mounting+filesystem:+/projects/bunpitsuka+/projects/bit-no-mori;Network+UP:+github+%E2%86%92+linkedin+%E2%86%92+portfolio+%E2%86%92+discord;[+]+All+systems+nominal.+Welcome%2C+root." />
 
@@ -608,6 +608,6 @@ public class Aryan implements Developer, Collaborator {
 
 <br/><br/>
 
-<img src="https://imgs.search.brave.com/9hm9aNmV6JMBeB2zd4cJyWY-wkipqQbf0X03PxAh9Cw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9j/b2Rpbmctd2Fsa2lu/Zy1jYXQtMTdtaXR3/a3ppdzJ4enh4ay5n/aWY.gif" width="100%" style="height: 100px; object-fit: cover; border-radius: 12px;"/>
+<img src="https://imgs.search.brave.com/9hm9aNmV6JMBeB2zd4cJyWY-wkipqQbf0X03PxAh9Cw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9j/b2Rpbmctd2Fsa2lu/Zy1jYXQtMTdtaXR3/a3ppdzJ4enh4ay5n/aWY.gif" width="100%" style="height: 200px; object-fit: cover; border-radius: 12px;"/>
 
 </div>
